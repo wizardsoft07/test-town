@@ -67,9 +67,9 @@ b. **OpenAI API key**
 Visit https://platform.openai.com/account/api-keys to get your OpenAI API key if you're using OpenAI for your language model.
 
 1. DT ERC20
-
+0x05a61a2d064fce7808e321d4667c12ee8aa8af84
 2. DT TRC20
-
+TU79ip6MQ8fADJj95LbTDV1aJY1Dhweahh
 
 c. **Pinecone API keys**
 
